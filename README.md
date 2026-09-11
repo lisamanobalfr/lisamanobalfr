@@ -4,8 +4,6 @@
 
 **Développeur Python passionné par l'automatisation et les outils en ligne de commande.**
 
-痴迷于用代码把重复的事情自动化。
-
 </div>
 
 ---
