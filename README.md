@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bonjour, je suis Tran Vo Khanh Chi 👋
+# Bonjour, je suis Lisa Manobal 👋
 
 **Développeur Python passionné par l'automatisation et les outils en ligne de commande.**
 
