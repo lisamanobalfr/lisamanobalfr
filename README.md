@@ -13,7 +13,7 @@
 ## 🧑‍💻 À propos
 
 - 🔧 Je construis des **outils CLI** pratiques, des **APIs** légères et des **agents autonomes**
-- 🐍栈 : Python (FastAPI, subprocess, argparse, cryptography)
+- 🐍 Stack : Python (FastAPI, subprocess, argparse, cryptography)
 - 🧪 Je crois aux tests : chaque projet inclut des tests ou un `--selftest`
 - 📦 Tous mes projets sont publics, documentés et conçus pour fonctionner sans argument
 
