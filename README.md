@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="cat-avatar.png" width="256" alt="avatar"/>
-
 # Bonjour, je suis Lisa Manobal 👋
 
 **Développeur Python passionné par l'automatisation et les outils en ligne de commande.**
